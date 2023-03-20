@@ -1,6 +1,3 @@
 {
-  "buildCommand": "OUTPUT=vercel astro build",
-  "routes": [
-    { "src": "/proxy", "dest": "/api/proxy" }
-  ]
+  "buildCommand": "OUTPUT=vercel astro build"
 }
